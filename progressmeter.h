@@ -23,5 +23,5 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-void	start_progress_meter(char *, off_t, off_t *);
-void	stop_progress_meter(void);
+void start_progress_meter(char *, off_t, off_t *);
+void stop_progress_meter(void);
